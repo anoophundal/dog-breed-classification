@@ -12,6 +12,11 @@ Technologies:
 - VS Code
 - Jupyter Notebook
 
+Dataset:
+- Stanford Dogs Dataset
+  http://vision.stanford.edu/aditya86/ImageNetDogs/
+  (The dataset is publicly available and is not redistributed in this repository.)
+
 Note: This project is based on a publicly available Kaggle notebook and was adapted,
 executed, and studied as part of an academic mini project to understand CNN-based
 image classification workflows.
